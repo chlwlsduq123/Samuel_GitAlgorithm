@@ -10,9 +10,9 @@ picture = ["abc",
 the output should be
 
 addBorder(picture) = ["*****",
-                            "*abc*",
-                            "*ded*",
-                            "*****"]
+                      "*abc*",
+                      "*ded*",
+                      "*****"]
 */
 
 String[] addBorder(String[] picture) {
